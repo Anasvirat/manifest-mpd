@@ -9,7 +9,7 @@ const CHANNELS = {
     "1": "https://ts-j8bh.onrender.com/box.ts?id=1",
     "2": "https://ts-j8bh.onrender.com/box.ts?id=2",
     "3": "https://ts-j8bh.onrender.com/box.ts?id=3",
-    "4": "https://ts-j8bh.onrender.com/box.ts?id=4"
+    "4": "http://ptu.ridsys.in/riptv/live/stream20/index.m3u8"
 };
 
 app.get('/box.mpd', (req, res) => {

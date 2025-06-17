@@ -7,8 +7,8 @@ const PORT = process.env.PORT || 3000;
 // M3U8 links mapped by ID
 const CHANNELS = {
     "1": "https://ts-j8bh.onrender.com/box.ts?id=1",
-    "2": "https://ts-j8bh.onrender.com/box.ts?id=2"
-    "3": "https://ts-j8bh.onrender.com/box.ts?id=3"
+    "2": "https://ts-j8bh.onrender.com/box.ts?id=2",
+    "3": "https://ts-j8bh.onrender.com/box.ts?id=3",
     "4": "https://ts-j8bh.onrender.com/box.ts?id=4"
 };
 
